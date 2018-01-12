@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1515737368 source:c:\users\hexsine\documents\codeblocks\refresher\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<conio.h>
+	"Game.h"
+
+1515737397 c:\users\hexsine\documents\codeblocks\refresher\include\game.h
+	"Player.h"
+
+1515737655 c:\users\hexsine\documents\codeblocks\refresher\include\player.h
+	<iostream>
+	<string>
+
+1515737604 source:c:\users\hexsine\documents\codeblocks\refresher\src\game.cpp
+	<conio.h>
+	"Game.h"
+
+1515737056 source:c:\users\hexsine\documents\codeblocks\refresher\src\player.cpp
+
+1515737112 source:c:\users\hexsine\documents\codeblocks\refresher\src\scene.cpp
+	"Scene.h"
+
+1515737165 c:\users\hexsine\documents\codeblocks\refresher\include\scene.h
+
