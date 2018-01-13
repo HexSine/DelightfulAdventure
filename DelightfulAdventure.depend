@@ -24,3 +24,40 @@
 
 1515737165 c:\users\hexsine\documents\codeblocks\refresher\include\scene.h
 
+1515737368 source:c:\users\hexsine\documents\codeblocks\delightfuladventure\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<conio.h>
+	"Game.h"
+
+1515737604 source:c:\users\hexsine\documents\codeblocks\delightfuladventure\src\game.cpp
+	<conio.h>
+	"Game.h"
+
+1515737728 source:c:\users\hexsine\documents\codeblocks\delightfuladventure\src\item.cpp
+	"Item.h"
+
+1515737112 source:c:\users\hexsine\documents\codeblocks\delightfuladventure\src\scene.cpp
+	"Scene.h"
+
+1515869632 source:c:\users\hexsine\documents\codeblocks\delightfuladventure\player.cpp
+
+1515869466 c:\users\hexsine\documents\codeblocks\delightfuladventure\player.h
+
+1515870570 c:\users\hexsine\documents\codeblocks\delightfuladventure\include\game.h
+	"Player.h"
+
+1515870792 c:\users\hexsine\documents\codeblocks\delightfuladventure\include\player.h
+	<stdio.h>
+	<string.h>
+	<string>
+	<list>
+
+1515737711 c:\users\hexsine\documents\codeblocks\delightfuladventure\include\item.h
+
+1515869653 source:c:\users\hexsine\documents\codeblocks\delightfuladventure\src\player.cpp
+	"Player.h"
+
+1515737165 c:\users\hexsine\documents\codeblocks\delightfuladventure\include\scene.h
+

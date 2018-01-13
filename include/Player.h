@@ -1,19 +1,27 @@
 #ifndef PLAYER
 #define PLAYER
 
-#include <iostream>
+#include <stdio.h>
+#include <string.h>
 #include <string>
 #include <list>
 using namespace std;
 
-class item;
+class Item;
 
 class Player
 {
 public:
     Player();
     ~Player();
-    string name;
+
+    void SetName(char* name)
+    {
+        strcpy(name,m_name);
+    }
+
+private:
+    char m_name[16];
     list<Item*> items;
 };
 

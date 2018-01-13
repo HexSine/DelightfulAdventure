@@ -17,6 +17,7 @@ class Game
     protected:
 
     private:
+        Player player;
         bool exit;
 };
 

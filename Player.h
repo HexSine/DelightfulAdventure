@@ -1,11 +1,14 @@
 #ifndef PLAYER
 #define PLAYER
 
-public class Player
+class Player
 {
-    string name;
+public:
+    Player();
+    ~Player();
+    char name[8];
 
-}
+};
 
 #endif // PLAYER
 
