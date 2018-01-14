@@ -19,7 +19,6 @@ public:
     {
         strcpy(name,m_name);
     }
-
 private:
     char m_name[16];
     list<Item*> items;

@@ -32,8 +32,6 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="Player.cpp" />
-		<Unit filename="Player.h" />
 		<Unit filename="include/Game.h" />
 		<Unit filename="include/Item.h" />
 		<Unit filename="include/Player.h" />

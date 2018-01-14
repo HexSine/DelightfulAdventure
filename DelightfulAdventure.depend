@@ -61,3 +61,34 @@
 
 1515737165 c:\users\hexsine\documents\codeblocks\delightfuladventure\include\scene.h
 
+1515885821 source:c:\users\nathan\documents\delightfuladventure\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<conio.h>
+	"Game.h"
+
+1515896921 c:\users\nathan\documents\delightfuladventure\include\game.h
+	<stdio.h>
+	<conio.h>
+	"Player.h"
+
+1515896366 c:\users\nathan\documents\delightfuladventure\include\player.h
+	<stdio.h>
+	<string.h>
+	<string>
+	<list>
+
+1515885821 source:c:\users\nathan\documents\delightfuladventure\src\item.cpp
+	"Item.h"
+
+1515885821 c:\users\nathan\documents\delightfuladventure\include\item.h
+
+1515885821 source:c:\users\nathan\documents\delightfuladventure\src\player.cpp
+	"Player.h"
+
+1515885821 source:c:\users\nathan\documents\delightfuladventure\src\scene.cpp
+	"Scene.h"
+
+1515885821 c:\users\nathan\documents\delightfuladventure\include\scene.h
+
