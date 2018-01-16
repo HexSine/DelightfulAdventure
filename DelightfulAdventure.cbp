@@ -12,8 +12,10 @@
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
+					<Add option="-std=c++0x" />
 					<Add option="-g" />
 					<Add directory="./include" />
+					<Add directory="include" />
 				</Compiler>
 			</Target>
 			<Target title="Release">
@@ -23,6 +25,7 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-O2" />
+					<Add directory="include" />
 				</Compiler>
 				<Linker>
 					<Add option="-s" />
@@ -33,11 +36,14 @@
 			<Add option="-Wall" />
 		</Compiler>
 		<Unit filename="include/Game.h" />
+		<Unit filename="include/IntroScene.h" />
 		<Unit filename="include/Item.h" />
 		<Unit filename="include/Player.h" />
 		<Unit filename="include/Scene.h" />
+		<Unit filename="include/json.hpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Game.cpp" />
+		<Unit filename="src/IntroScene.cpp" />
 		<Unit filename="src/Item.cpp" />
 		<Unit filename="src/Player.cpp" />
 		<Unit filename="src/Scene.cpp" />

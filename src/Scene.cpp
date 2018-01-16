@@ -1,10 +1,9 @@
 #include "Scene.h"
+#include "Player.h"
 
-Scene::Scene()
+Scene::Scene(Context* context) :p_context(context)
 {
-    //ctor
 }
-
 Scene::~Scene()
 {
     //dtor

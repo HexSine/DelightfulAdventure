@@ -24,31 +24,38 @@
 
 1515737165 c:\users\hexsine\documents\codeblocks\refresher\include\scene.h
 
-1515737368 source:c:\users\hexsine\documents\codeblocks\delightfuladventure\main.cpp
+1516086157 source:c:\users\hexsine\documents\codeblocks\delightfuladventure\main.cpp
 	<iostream>
 	<vector>
 	<string>
 	<conio.h>
+	"json.hpp"
 	"Game.h"
 
-1515737604 source:c:\users\hexsine\documents\codeblocks\delightfuladventure\src\game.cpp
+1515978358 source:c:\users\hexsine\documents\codeblocks\delightfuladventure\src\game.cpp
+	<stdio.h>
 	<conio.h>
 	"Game.h"
 
 1515737728 source:c:\users\hexsine\documents\codeblocks\delightfuladventure\src\item.cpp
 	"Item.h"
 
-1515737112 source:c:\users\hexsine\documents\codeblocks\delightfuladventure\src\scene.cpp
+1515971481 source:c:\users\hexsine\documents\codeblocks\delightfuladventure\src\scene.cpp
 	"Scene.h"
+	"Player.h"
 
 1515869632 source:c:\users\hexsine\documents\codeblocks\delightfuladventure\player.cpp
 
 1515869466 c:\users\hexsine\documents\codeblocks\delightfuladventure\player.h
 
-1515870570 c:\users\hexsine\documents\codeblocks\delightfuladventure\include\game.h
+1516086201 c:\users\hexsine\documents\codeblocks\delightfuladventure\include\game.h
+	<stdio.h>
+	<conio.h>
+	<map>
+	"IntroScene.h"
 	"Player.h"
 
-1515870792 c:\users\hexsine\documents\codeblocks\delightfuladventure\include\player.h
+1515963020 c:\users\hexsine\documents\codeblocks\delightfuladventure\include\player.h
 	<stdio.h>
 	<string.h>
 	<string>
@@ -59,7 +66,7 @@
 1515869653 source:c:\users\hexsine\documents\codeblocks\delightfuladventure\src\player.cpp
 	"Player.h"
 
-1515737165 c:\users\hexsine\documents\codeblocks\delightfuladventure\include\scene.h
+1516081129 c:\users\hexsine\documents\codeblocks\delightfuladventure\include\scene.h
 
 1515885821 source:c:\users\nathan\documents\delightfuladventure\main.cpp
 	<iostream>
@@ -91,4 +98,146 @@
 	"Scene.h"
 
 1515885821 c:\users\nathan\documents\delightfuladventure\include\scene.h
+
+1516080709 c:\users\hexsine\documents\codeblocks\delightfuladventure\include\json.hpp
+	<algorithm>
+	<cassert>
+	<ciso646>
+	<cstddef>
+	<functional>
+	<initializer_list>
+	<iosfwd>
+	<iterator>
+	<numeric>
+	<string>
+	<utility>
+	<cstdint>
+	<map>
+	<memory>
+	<string>
+	<vector>
+	<ciso646>
+	<ciso646>
+	<cstddef>
+	<limits>
+	<type_traits>
+	<utility>
+	<exception>
+	<stdexcept>
+	<string>
+	<array>
+	<ciso646>
+	<cstddef>
+	<cstdint>
+	<algorithm>
+	<array>
+	<ciso646>
+	<forward_list>
+	<iterator>
+	<string>
+	<tuple>
+	<type_traits>
+	<utility>
+	<valarray>
+	<ciso646>
+	<iterator>
+	<tuple>
+	<type_traits>
+	<utility>
+	<valarray>
+	<vector>
+	<algorithm>
+	<array>
+	<cassert>
+	<cstddef>
+	<cstring>
+	<ios>
+	<istream>
+	<iterator>
+	<memory>
+	<numeric>
+	<string>
+	<type_traits>
+	<utility>
+	<clocale>
+	<cstddef>
+	<cstdlib>
+	<initializer_list>
+	<ios>
+	<iomanip>
+	<sstream>
+	<string>
+	<vector>
+	<cassert>
+	<cmath>
+	<cstdint>
+	<functional>
+	<string>
+	<utility>
+	<ciso646>
+	<cstddef>
+	<limits>
+	<ostream>
+	<ciso646>
+	<iterator>
+	<type_traits>
+	<cstddef>
+	<string>
+	<cstddef>
+	<iterator>
+	<utility>
+	<algorithm>
+	<cstddef>
+	<ios>
+	<iterator>
+	<memory>
+	<ostream>
+	<string>
+	<vector>
+	<algorithm>
+	<array>
+	<cassert>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstring>
+	<iomanip>
+	<ios>
+	<iterator>
+	<limits>
+	<sstream>
+	<string>
+	<utility>
+	<algorithm>
+	<array>
+	<cstdint>
+	<cstring>
+	<limits>
+	<algorithm>
+	<array>
+	<cassert>
+	<ciso646>
+	<clocale>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdio>
+	<iterator>
+	<limits>
+	<string>
+	<type_traits>
+	<initializer_list>
+	<utility>
+	<utility>
+
+1516081294 source:c:\users\hexsine\documents\codeblocks\delightfuladventure\src\introscene.cpp
+	"IntroScene.h"
+	"Player.h"
+	"Context.h"
+	"stdio.h"
+
+1516080766 c:\users\hexsine\documents\codeblocks\delightfuladventure\include\introscene.h
+	"Scene.h"
+
+1515907401 c:\users\hexsine\documents\codeblocks\delightfuladventure\include\context.h
 

@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include <conio.h>
 #include "Game.h"
 
@@ -13,21 +14,17 @@ Game::~Game()
 
 void Game::Initialize()
 {
-    char name[16];
-    printf("Please Enter Your Name\n");
-    scanf("%s", name);
-    printf("%s",name);
 
 }
 
 void Game::Run()
 {
-    while(!exit)
+    while(!m_exit)
     {
         char c = getch();
         if(c == 0x1B)
         {
-            exit = true;
+            m_exit = true;
         }
     }
 }
